@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /home/mochalina/git/IS_project25/laba4/src/main/java/laba4/info_button.java
 /home/mochalina/git/IS_project25/laba4/src/main/java/laba4/loadFile.java
 /home/mochalina/git/IS_project25/laba4/src/main/java/laba4/BubbleSort.java
@@ -8,3 +9,15 @@
 /home/mochalina/git/IS_project25/laba4/src/main/java/laba4/Image.java
 /home/mochalina/git/IS_project25/laba4/src/main/java/laba4/Random.java
 /home/mochalina/git/IS_project25/laba4/src/main/java/laba4/randomMassiv.java
+=======
+/home/grishchenko/git/IS_project25/laba4/src/main/java/laba4/loadFile.java
+/home/grishchenko/git/IS_project25/laba4/src/main/java/laba4/subversion.java
+/home/grishchenko/git/IS_project25/laba4/src/main/java/laba4/randomMassiv.java
+/home/grishchenko/git/IS_project25/laba4/src/main/java/laba4/info_button.java
+/home/grishchenko/git/IS_project25/laba4/src/main/java/laba4/BubbleSort.java
+/home/grishchenko/git/IS_project25/laba4/src/main/java/laba4/Random.java
+/home/grishchenko/git/IS_project25/laba4/src/main/java/laba4/Image.java
+/home/grishchenko/git/IS_project25/laba4/src/main/java/laba4/ListenerLogo.java
+/home/grishchenko/git/IS_project25/laba4/src/main/java/laba4/switcher_combobox.java
+/home/grishchenko/git/IS_project25/laba4/src/main/java/laba4/ListenerButton.java
+>>>>>>> b3d6db6a9f816dc65301fd7627aa7a75525187b6

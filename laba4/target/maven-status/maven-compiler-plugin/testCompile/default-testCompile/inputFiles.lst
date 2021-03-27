@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 /home/mochalina/git/IS_project25/laba4/src/test/java/laba5/SubTest.java
 /home/mochalina/git/IS_project25/laba4/src/test/java/laba5/TetstBubbleSort.java
 /home/mochalina/git/IS_project25/laba4/src/test/java/laba5/TestRandomMassiv.java
+=======
+/home/grishchenko/git/IS_project25/laba4/src/test/java/laba5/TetstBubbleSort.java
+/home/grishchenko/git/IS_project25/laba4/src/test/java/laba5/TestRandomMassiv.java
+/home/grishchenko/git/IS_project25/laba4/src/test/java/laba5/SubTest.java
+>>>>>>> b3d6db6a9f816dc65301fd7627aa7a75525187b6

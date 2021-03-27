@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: laba5.SubTest
 -------------------------------------------------------------------------------
+<<<<<<< HEAD
 Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.259 sec
+=======
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.006 sec
+>>>>>>> b3d6db6a9f816dc65301fd7627aa7a75525187b6
