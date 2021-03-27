@@ -6,5 +6,10 @@ laba4/ListenerButton.class
 laba4/Random.class
 laba4/Image.class
 laba4/ListenerLogo.class
+<<<<<<< HEAD
 laba4/info_button.class
 laba4/BubbleSort.class
+=======
+laba4/BubbleSort.class
+laba4/info_button.class
+>>>>>>> b3d6db6a9f816dc65301fd7627aa7a75525187b6
